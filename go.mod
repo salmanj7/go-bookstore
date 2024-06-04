@@ -1,4 +1,4 @@
-module github.com/saslmanj7/go-bookstore
+module github.com/salmanj7/go-bookstore
 
 go 1.22.3
 
